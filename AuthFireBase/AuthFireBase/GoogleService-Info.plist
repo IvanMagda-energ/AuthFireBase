@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>178631674742-humgbla04fq5ipklmhrpt9751s5lcl5g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.178631674742-humgbla04fq5ipklmhrpt9751s5lcl5g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC79MZNj-eFJy66JrUIhrtoeAnhPFFaowk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>178631674742</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>education.AuthFireBase</string>
+	<key>PROJECT_ID</key>
+	<string>authfirebase-1352c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authfirebase-1352c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:178631674742:ios:3f3f65390b6c8ae6038857</string>
+	<key>DATABASE_URL</key>
+	<string>https://authfirebase-1352c-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
